@@ -1,4 +1,4 @@
-# Проект: Путешествие по России https://github.com/Semen1996/russian-travel
+# Проект: Путешествие по России https://semen1996.github.io/russian-travel/
 
 [Лендинг](https://habr.com/ru/company/trinion/blog/273917/ "Одностраничный сайт"), посвященный некоторым живописным местам России, которые стоит посетить.
 
